@@ -2,7 +2,7 @@
 #EXTINF:
 https://?
 #EXTINF:-1 group-title="chiringuito" tvg-id="DAZN 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS92PSoU1hyaQfNMgFH90K04lsS43cVLUR3T-BeFP1PuwdnmNjzDNmaEbZZK5S-rzGAsxM&usqp=CAU" ,ligue 1
-http://127.0.0.1:6878/ace/getstream?id=https://www.fembed.com/v/qqre7wtelkw4j62n
+http://127.0.0.1:6878/ace/getstream?id=https://7cine.b-cdn.net/Futbolin%20(2013).mp4
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1 720
 http://127.0.0.1:6878/ace/getstream?id=84af46abab9de02bdd22818747738cfa5438132e
 #EXTINF:-1 group-title="DAZN" tvg-id="DAZN 1" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" ,DAZN 1
